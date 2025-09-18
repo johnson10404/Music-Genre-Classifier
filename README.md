@@ -8,23 +8,6 @@ It achieves an accuracy of **82%**, loss of **1.40**, and **AUC of 0.86** on the
 
 ---
 
-## Project Structure
-
-```
-music-genre-classifier/
-│
-├── src/
-│   └── genre_classifier.py
-│
-├── reports/
-│   ├── Big_Data_Report.pdf
-│   └── Poster.pdf
-│
-├── requirements.txt
-└── README.md 
-```
----
-
 ## Motivation
 
 Streaming services rely on algorithms to recommend new music.  
