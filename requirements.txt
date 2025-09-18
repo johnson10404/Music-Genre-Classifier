@@ -1,0 +1,7 @@
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+kaleido==0.2.1
+librosa==0.10.1
+scikit-learn==1.5.1
+tensorflow==2.15.0
